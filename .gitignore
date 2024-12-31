@@ -1,0 +1,19 @@
+# Ignore user-specific directories and files that Git should not track
+AppData/
+Documents/
+Cookies/
+My Music/
+My Pictures/
+My Videos/
+Local Settings/
+My Documents/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
+
+# Ignore other Windows system files
+Thumbs.db
+Desktop.ini
